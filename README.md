@@ -1,4 +1,4 @@
-##Honey Do List - The Ultimate Task Manager for Couples
+Honey Do List - The Ultimate Task Manager for Couples
 
 The Honey Do List app is designed to simplify task management for couples. Whether you’re juggling chores, errands, or home improvement projects, this app helps you stay organized and connected. With intuitive features like shared task lists, priority tags, and automated reminders, you’ll never forget an important to-do again.
 
